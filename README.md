@@ -19,7 +19,7 @@ Figure 2. The drawbacks of the binary classification problem
 
 Google’s NIMA[2] is the state-of-the-art in neural network image assessment field. In Google’s NIMA, the neural network structure is quite simple. They use baseline image classifier network(such as ResNet, R-FCN,......) as their image characteristics capturing layer. The output of the characteristics capturing layer is fully-connected and input to the EMD (Earth Movers Distance) Loss layer. The prediction can be made using the output of the EMD Loss layer. Figure 2 illustrates the idea of the work flow of Google’s Nima neural network model. 
 
-![GitHub Logo](/imgs/Figure 3. The neural network architecture of NIMA Aesthetic assessment  Model.png)
+![GolemAestheticAssessment](/imgs/F3_1.png)
 Format: ![Figure 3. The neural network architecture of NIMA Aesthetic assessment  Model.](url)
 
 
