@@ -72,3 +72,10 @@ EMD is defined as the minimum cost to move the mass of one distribution to anoth
 [2] H. Talebi and P. Milanfar. Nima: Neural image assess- ment. TIP, 2018. 3
 
 [3] E. Levina and P. Bickel, The earth movers distance is the Mallows distance: Some insights from statistics, in Com- puter Vision, 2001. ICCV 2001. Proceedings. Eighth IEEE International Conference on, vol. 2. IEEE, 2001, pp. 251256. 6
+
+# 6. Future Work
+
+Federated Learning(Privacy Preserved Distributed Deep Learning) Blockchain + AI: 
+ - Motivation: Privacy and Decentralization are the next big thing in the Tech field. EU announced GDPR. US announced Federal information privacy laws. Facebook was fined $US5 billion for Cambridge Analytica privacy violations. How to train the useful deep learning model without violate user's privacy will be very important. Golem Layer2 can definitedly play do federated learning and reward users who join training process with tokens. 
+Gaming: Golem Neural Network Image Aesthetic Assessment can become a platform. Everyone can share good looking pictures on this platform. We can also issue NFT for the high score picture. We can also hold photography competition on the platform and reward participants using tokens.
+
