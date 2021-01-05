@@ -77,5 +77,8 @@ EMD is defined as the minimum cost to move the mass of one distribution to anoth
 
 Federated Learning(Privacy Preserved Distributed Deep Learning) Blockchain + AI: 
  - Motivation: Privacy and Decentralization are the next big thing in the Tech field. EU announced GDPR. US announced Federal information privacy laws. Facebook was fined $US5 billion for Cambridge Analytica privacy violations. How to train the useful deep learning model without violate user's privacy will be very important. Golem Layer2 can definitedly play do federated learning and reward users who join training process with tokens. 
-Gaming: Golem Neural Network Image Aesthetic Assessment can become a platform. Everyone can share good looking pictures on this platform. We can also issue NFT for the high score picture. We can also hold photography competition on the platform and reward participants using tokens.
+
+
+Gaming: 
+ - Golem Neural Network Image Aesthetic Assessment can become a platform. Everyone can share good looking pictures on this platform. We can also issue NFT for the high score picture. We can also hold photography competition on the platform and reward participants using tokens.
 
