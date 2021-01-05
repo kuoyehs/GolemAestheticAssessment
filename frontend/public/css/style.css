@@ -1,0 +1,14 @@
+body {
+  background-color: bisque;
+}
+
+.container {
+
+}
+
+.col-12 {
+  text-align:center;
+  margin-top: 10px;
+  flex: 0 0 100%;
+  width: 100%;
+}

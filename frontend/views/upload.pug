@@ -1,0 +1,14 @@
+extends layout
+
+block content
+  .container
+    .col-12
+      p Original image:
+      img(src="/images/demo.jpg")
+    .col-12
+      p Image score: !{data}
+    .col-12
+      p Upload image:
+      form(method='post', action="/u/uploadimage", enctype='multipart/form-data')
+        input(type='file', name='imageupload')
+        input(type='submit', name='uploadimage', value='Upload')
