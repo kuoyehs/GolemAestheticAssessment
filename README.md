@@ -22,6 +22,10 @@ Step 3:
 open your browser and go to:
 http://localhost:3000/
 
+Note: 
+Neural Network Image Aesthetic Assessment Pytorch Model weights file:
+https://drive.google.com/file/d/1esdd-6SyB9vhDSvUgh0VUBVWpzq0ATty/view?usp=sharing
+
 # 1. Introduction
 
 Aesthetic assessment quantifies semantic level characteristics associated with emotions and beauty in images. The AVA dataset[1] contains about 255,000 images, rated based on aesthetic qualities by amateur photographers. Each photo is scored by an average of 200 people in response to photography contests. The image ratings range from 1 to 10, with 10 being the highest aesthetic score associated to an image. Aesthetic quality of a photograph can be represented by the mean score, and unconventionality of it closely correlates to the score deviation(high score variance tend to be subject to interpretation, low score variance seem to represent conventional styles).
