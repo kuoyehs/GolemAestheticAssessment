@@ -7,7 +7,7 @@ By using golem, sharing CPU copmuting power, AI training could be possible for e
 
 - Click to watch the intro video
 
-[![Watch the video](https://img.youtube.com/vi/pnGtBH0EGaE/hqdefault.jpg)](https://youtu.be/pnGtBH0EGaE)
+[![Watch the video](https://img.youtube.com/vi/-rSW7UQQ69M/hqdefault.jpg)](https://youtu.be/-rSW7UQQ69M)
 
 
 Step 1:
