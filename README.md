@@ -5,7 +5,8 @@ By using golem, sharing CPU copmuting power, AI training could be possible for e
 (GPL Version-3 license)
 # 0. Intro Video and Installation
 
-Click to watch the intro video
+- Click to watch the intro video
+
 [![Watch the video](https://img.youtube.com/vi/pnGtBH0EGaE/hqdefault.jpg)](https://youtu.be/pnGtBH0EGaE)
 
 
