@@ -1,6 +1,7 @@
 # Neural Network Image Aesthetic Assessment
 
-Machine learning and deep learning requires computing power. Upgrading hardware or using cloud computing could both cost an arm and a leg. By using golem, sharing CPU copmuting power, AI training could be possible for everyone.
+Machine learning and deep learning requires computing power. Upgrading hardware or using cloud computing could both cost an arm and a leg. 
+By using golem, sharing CPU copmuting power, AI training could be possible for everyone.
 
 # 1. Introduction
 
@@ -10,9 +11,15 @@ Figure 1. Colors of the image are not highly correlated with the Aesthetic asses
 
 # 2. Paper Survey
 
+
+![GolemAestheticAssessment](/imgs/F2_1.png)
+
 Most of the aesthetic assessment models we surveyed only divide images into two classes (Good or Bad). This kind of binary classification only focuses on the average score prediction discard the prediction of the score distribution.
 
-Figure 2. The drawbacks of the binary classification problem
+![GolemAestheticAssessment](/imgs/F2_2.png)
+- Figure 2. The drawbacks of the binary classification problem
+
+
 
 
 # 3. Google NIMA
@@ -20,7 +27,7 @@ Figure 2. The drawbacks of the binary classification problem
 Google’s NIMA[2] is the state-of-the-art in neural network image assessment field. In Google’s NIMA, the neural network structure is quite simple. They use baseline image classifier network(such as ResNet, R-FCN,......) as their image characteristics capturing layer. The output of the characteristics capturing layer is fully-connected and input to the EMD (Earth Movers Distance) Loss layer. The prediction can be made using the output of the EMD Loss layer. Figure 2 illustrates the idea of the work flow of Google’s Nima neural network model. 
 
 ![GolemAestheticAssessment](/imgs/F3_1.png)
-Format: ![Figure 3. The neural network architecture of NIMA Aesthetic assessment  Model.](url)
+- Figure 3. The neural network architecture of NIMA Aesthetic assessment  Model.
 
 
 
