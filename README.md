@@ -2,6 +2,7 @@
 
 Machine learning and deep learning requires computing power. Upgrading hardware or using cloud computing could both cost an arm and a leg. 
 By using golem, sharing CPU copmuting power, AI training could be possible for everyone.
+(GPL Version-3 licence)
 # 0. Installation
 Step 1:
 Follow Golem Tutorial
