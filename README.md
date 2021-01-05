@@ -4,7 +4,7 @@ Machine learning and deep learning requires computing power. Upgrading hardware 
 By using golem, sharing CPU copmuting power, AI training could be possible for everyone.
 # 0. Installation
 Step 1:
-Follow Golem Tutorial https://handbook.golem.network/requestor-tutorials/flash-tutorial-of-requestor-development
+Follow Golem Tutorial
 ```
 yagna service run
 yagna payment init -r
