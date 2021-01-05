@@ -2,6 +2,25 @@
 
 Machine learning and deep learning requires computing power. Upgrading hardware or using cloud computing could both cost an arm and a leg. 
 By using golem, sharing CPU copmuting power, AI training could be possible for everyone.
+# 0. Installation
+Step 1:
+Follow Golem Tutorial https://handbook.golem.network/requestor-tutorials/flash-tutorial-of-requestor-development
+```
+yagna service run
+yagna payment init -r
+python3 -m venv ~/.envs/yagna-python-tutorial
+source ~/.envs/yagna-python-tutorial/bin/activate
+export YAGNA_APPKEY=insert-your-32-char-app-key-here
+```
+Step 2:
+Run Frontend
+```
+npm install
+npm run start
+```
+Step 3:
+open your browser and go to:
+http://localhost:3000/
 
 # 1. Introduction
 
